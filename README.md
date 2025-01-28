@@ -1,0 +1,6 @@
+    implementation(libs.retrofit)
+    implementation(libs.okhttp)
+    implementation(libs.converter.gson)
+    implementation(libs.paypal.web.payments)
+    implementation(libs.hilt.android)
+    ksp(libs.hilt.compiler)
